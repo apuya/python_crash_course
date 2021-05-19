@@ -5,4 +5,5 @@
 #
 # Chapter 12: A Ship That Fires Bullets
 #
-# Exercise 12.1 :
+# Exercise 12.1 Blue Sky:
+# Make a Pygame window with a blue background.
