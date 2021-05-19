@@ -7,7 +7,7 @@ The the main objective of this repo is to expand and refine my knowledge, and as
 
 Additional resources and supplemental resource of the text can be found [Here.](https://ehmatthes.github.io/pcc_2e/regular_index/)
 
-#### Chapter Outline:
+#### Chapter Outlines:
 ##### Part 1: Basic
 1. Getting Started
 2. Variable and Simple Data Types
