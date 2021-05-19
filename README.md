@@ -30,6 +30,6 @@ Additional resources and supplemental resource of the text can be found [Here.](
 16. Downloading Data
 17. Working with APIs
 ###### Project 3: Web Applications
-18. Getting Started with D¡ango
+18. Getting Started with Django
 19. User Accounts
 20. Styling and Deploying an App
