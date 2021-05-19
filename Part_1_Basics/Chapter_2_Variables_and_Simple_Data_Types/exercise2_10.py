@@ -1,7 +1,7 @@
 # Python Crash Course: A Hands-On, Project-Based Introduction To Programming
 #
 # Name: Mark Lester Apuya
-# Date:
+# Date: 05/19/2021
 #
 # Chapter 2: Variables and Simple Data Types
 #

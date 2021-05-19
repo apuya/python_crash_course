@@ -1,7 +1,7 @@
 # Python Crash Course: A Hands-On, Project-Based Introduction To Programming
 #
 # Name: Mark Lester Apuya
-# Date:
+# Date: 05/19/2021
 #
 # Chapter 1: Getting Started
 #
@@ -11,3 +11,7 @@
 # to draft descrip- tions of what you want to create. It’s a good habit to keep an “ideas” notebook that 
 # you can refer to whenever you want to start a new project. Take a few minutes now to describe three
 # programs you want to create.
+
+# 1. Develope an IOS game.
+# 2. Automated trading system.
+# 3. Machine Learning.
