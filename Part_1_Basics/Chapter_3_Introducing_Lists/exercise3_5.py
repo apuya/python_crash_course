@@ -1,7 +1,7 @@
 # Python Crash Course: A Hands-On, Project-Based Introduction To Programming
 #
 # Name: Mark Lester Apuya
-# Date:
+# Date: 05/21/2021
 #
 # Chapter 3: Introducing Lists
 #
@@ -14,3 +14,29 @@
 # • Modify your list, replacing the name of the guest who can’t make it with the name of the 
 #   new person you are inviting.
 # • Print a second set of invitation messages, one for each person who is still in your list.
+
+# List from 3-4
+
+invites = ['Sam', 'Jaxon', 'Troy']
+print(invites)
+
+# Modify list
+
+# del: removes item from the list
+del invites[0]
+print(invites)
+
+# append allows you to add a new element at the end of the list
+invites.append('Alex')
+print(invites)
+
+# New invitation message
+message = "Hey {}, dinner Friday. Are you able to make it?"
+
+
+# Print invitation messages
+print(message.format(invites[0]))
+print(message.format(invites[1]))
+print(message.format(invites[2]))
+
+
