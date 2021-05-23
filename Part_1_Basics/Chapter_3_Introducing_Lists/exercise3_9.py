@@ -1,7 +1,7 @@
 # Python Crash Course: A Hands-On, Project-Based Introduction To Programming
 #
 # Name: Mark Lester Apuya
-# Date:
+# Date: 05/22/2021
 #
 # Chapter 3: Introducing Lists
 #
@@ -11,3 +11,7 @@
 
 # List from 3-6
 invites = ['Alex', 'Sam', 'Nick', 'Jaxon', 'Troy', 'Mark']
+
+# len(): tells you the length of the list
+message = "There are {} on the invite list."
+print(message.format(len(invites)))
