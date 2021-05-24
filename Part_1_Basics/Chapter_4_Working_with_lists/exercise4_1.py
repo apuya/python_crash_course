@@ -1,7 +1,7 @@
 # Python Crash Course: A Hands-On, Project-Based Introduction To Programming
 #
 # Name: Mark Lester Apuya
-# Date:
+# Date: 05/23/2021
 #
 # Chapter 4: Working With Lists
 #
@@ -15,3 +15,17 @@
 # • Add a line at the end of your program, outside the for loop, that states how much you like pizza. The 
 #   output should consist of three or more lines about the kinds of pizza you like and then an additional sentence, 
 #   such as I really love pizza!
+
+pizzas = ['cheese', 'greek', 'pepperoni']
+print(pizzas)
+
+# for loop that prints the name of each pizza
+for pizza in pizzas:
+    print(pizza)
+
+# Modified loop with sentence 
+for pizza in pizzas:
+    print(f"{pizza} pizza is one of my favorite tpes of pizza.")
+    print(f"I should order a {pizza} pizza right now.\n")
+
+print("I love pizza!")
