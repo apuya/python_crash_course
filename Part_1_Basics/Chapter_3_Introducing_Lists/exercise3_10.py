@@ -6,9 +6,10 @@
 # Chapter 3: Introducing Lists
 #
 # Exercise 3.10 Every Function:
-# Think of something you could store in a list. For example, you could make a list of mountains, rivers, countries, 
-# cities, languages, or anything else you’d like. Write a program that creates a list containing these items 
-# and then uses each function introduced in this chapter at least once.
+# Think of something you could store in a list. For example, you could make a 
+# list of mountains, rivers, countries, cities, languages, or anything else 
+# you’d like. Write a program that creates a list containing these items and 
+# then uses each function introduced in this chapter at least once.
 
 languages = ['c++', 'python', 'c', 'java']
 print(f"Languages: {languages}")
@@ -40,7 +41,8 @@ print(f"Using sort() function: {languages}")
 
 languages = ['c++', 'python', 'java']
 
-# sorted() function allows you to display the list alphabetically without modifying the original list
+# sorted() function allows you to display the list alphabetically without 
+# modifying the original list
 print(f"List using the sorted() function: {languages}")
 print(f"List without the sorted() function: {languages}")
 

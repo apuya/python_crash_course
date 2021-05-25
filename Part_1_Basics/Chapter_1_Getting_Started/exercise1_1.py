@@ -6,8 +6,9 @@
 # Chapter 1: Getting Started
 #
 # Exercise 1.1 python.org:
-# Explore the Python home page (https://python.org/) to find topics that interest you. As You become 
-# familiar with Python, different parts of the site will be more useful to you.
+# Explore the Python home page (https://python.org/) to find topics that 
+# interest you. As You become familiar with Python, different parts of 
+# the site will be more useful to you.
 
 # Application for Python (https://www.python.org/about/apps/)
 # 1. Web and Internet Development 

@@ -6,13 +6,11 @@
 # Chapter 2: Variables and Simple Data Types
 #
 # Exercise 2.2 Simple Messages:
-# Assign a message to a vatiable, and print that message. Then change the value of the variable to a new 
-# Message.
+# Assign a message to a vatiable, and print that message. Then change the value
+# of the variable to a new message.
 
-# Assigns value to message and prints message.
 message = "Hello world!"
 print(message)
 
-# Assigns new value to message and prints message.
 message = "Hello Python world!"
 print(message)

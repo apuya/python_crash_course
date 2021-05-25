@@ -8,5 +8,5 @@
 # Exercise 2.1 Simple Message:
 # Assign a message to a variable, and then print that message.
 
-message = "Hello world!" # assigns the value "Hello world!" to the variable message
-print(message) # prints out the value in the variable
+message = "Hello world!" 
+print(message) 

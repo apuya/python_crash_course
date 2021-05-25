@@ -6,9 +6,11 @@
 # Chapter 2: Variables and Simple Data Types
 #
 # Exercise 2.7 Stripping Name:
-# Use a variable to represent a person’s name, and include some whitespace characters at the 
-# beginning and end of the name. Make sure you use each character combination, "\t" and "\n", at least once.
-#   Print the name once, so the whitespace around the name is displayed. Then print the name using 
+# Use a variable to represent a person’s name, and include some whitespace 
+# characters at the beginning and end of the name. Make sure you use each 
+# character combination, "\t" and "\n", at least once.
+#   Print the name once, so the whitespace around the name is displayed. 
+#   Then print the name using 
 #   each of the three stripping functions, lstrip(), rstrip(), and strip().
 
 # whitespace: are nonprinting chracters: spaces, tabs, and end-of-line symbols
@@ -24,8 +26,8 @@ print(name)
 name = "Mark\nLester\nApuya"
 print(name)
 
-# Stripping functions: temprarily removes extra space from the left, right, or both sides
-
+# Stripping functions: temprarily removes extra space from the left, right, or 
+# both sides
 name = " Mark Lester Apuya "
 print("'" + name + "'")
 
