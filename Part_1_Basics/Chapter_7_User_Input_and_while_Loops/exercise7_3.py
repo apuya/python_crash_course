@@ -6,4 +6,5 @@
 # Chapter 7: User Input and While Loops
 #
 # Exercise 7.3 Multiples oof Ten:
-# Ask the user for a number, and then report whether the number is a multiple of 10 or not.
+# Ask the user for a number, and then report whether the number is a multiple 
+# of 10 or not.
