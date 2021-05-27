@@ -1,12 +1,12 @@
 # Python Crash Course: A Hands-On, Project-Based Introduction To Programming
 #
 # Name: Mark Lester Apuya
-# Date:
+# Date: 05/27/2021
 #
 # Chapter 5: If Statements
 #
 # Exercise 5.6 Stages of Life:
-# Write an if-elif-else chain that determines a person’s stage of life. Set a 
+#   Write an if-elif-else chain that determines a person’s stage of life. Set a 
 # value for the variable age, and then:
 # 
 # • If the person is less than 2 years old, print a message that the person is 
@@ -21,3 +21,17 @@
 #   that the person is an adult.
 # • If the person is age 65 or older, print a message that the person is an 
 #   elder.
+
+age = 25
+print(f"Age: {age}")
+
+if age < 2:
+    print("The person is a baby.")
+elif 2 <= age < 4:
+    print("Thr person is a toddler.")
+elif 13 <= age < 20:
+    print("The person is a teenager.")
+elif 20 <= age < 65:
+    print("The person is an adult.")
+else:
+    print("The person is an elder.")
