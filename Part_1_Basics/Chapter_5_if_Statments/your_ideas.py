@@ -1,12 +1,12 @@
 # Python Crash Course: A Hands-On, Project-Based Introduction To Programming
 #
 # Name: Mark Lester Apuya
-# Date:
+# Date: 05/28/2021
 #
 # Chapter 5: If Statements
 #
 # Exercise 5.13 Your Ideas:
-# At this point, you’re a more capable programmer than you were when you 
+#   At this point, you’re a more capable programmer than you were when you 
 # started this book. Now that you have a better sense of how real-world 
 # situations are modeled in programs, you might be thinking of some problems 
 # you could solve with your own programs. Record any new ideas you have about 
