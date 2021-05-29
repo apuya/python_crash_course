@@ -16,7 +16,7 @@
 
 user_0 = {'first_name': 'mark', 
           'last_name': 'apuya', 
-          'age': '25', 
+          'age': 25, 
           'city': 'honolulu'}
 
 print(user_0['first_name'])
