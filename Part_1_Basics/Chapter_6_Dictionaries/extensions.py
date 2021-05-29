@@ -34,7 +34,7 @@ favorite_languages = {
 
 for name, info in favorite_languages.items():
     print(f"\n{name.title()} has {info['years']} years of coding." )
-    print(f"{name.title()} favorite languages are:")
+    print(f"{name.title()}'s favorite languages are:")
 
     for language in info['languages']:
         print(f"{language.title()}")
