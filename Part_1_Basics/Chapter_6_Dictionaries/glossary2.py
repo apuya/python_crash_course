@@ -13,12 +13,14 @@
 # your program again, these new words and meanings should automatically be 
 # included in the output.
 
-glossary = {'comment': 'A text or note that the interpreter ignores.',
-            'loop': 'Used to iterate over a sequence or iterable objects.',
-            'list':'Is a collection of items in a particular order.',
-            'syntax':'Are rules that defines how is a program is written and '
-            'interpreted.',
-            'variable':'Is a named location used to store data.'}
+glossary = {
+    'comment': 'A text or note that the interpreter ignores.',
+    'loop': 'Used to iterate over a sequence or iterable objects.',
+    'list':'Is a collection of items in a particular order.',
+    'syntax':'Are rules that defines how is a program is written and '
+    'interpreted.',
+    'variable':'Is a named location used to store data.'
+    }
 
 for key, value in glossary.items():
     print(f"\n{key.title()}: {value}")

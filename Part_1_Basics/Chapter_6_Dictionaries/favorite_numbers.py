@@ -12,11 +12,13 @@
 # name and their favorite number. For even more fun, poll a few friends and get 
 # some actual data for your program.
 
-favorite_numbers = {'mark': 22,
-                    'jaxon': 20,
-                    'alex': 2,
-                    'sam': 30,
-                    'troy': 12}
+favorite_numbers = {
+    'mark': 22,
+    'jaxon': 20,
+    'alex': 2,
+    'sam': 30,
+    'troy': 12
+    }
 
 number = favorite_numbers['mark']
 print(f"Mark's favorite number is {number}.")

@@ -14,9 +14,11 @@
 # • Use a loop to print the name of each river included in the dictionary.
 # • Use a loop to print the name of each country included in the dictionary.
 
-major_rivers = {'amazon': 'brazil',
-                'nile': 'egypt',
-                'mississippi': 'united states'}
+major_rivers = {
+    'amazon': 'brazil',
+    'nile': 'egypt',
+    'mississippi': 'united states'
+    }
 
 for river, country in major_rivers.items():
     print(f"The {river.title()} runs through {country.title()}.")

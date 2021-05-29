@@ -14,10 +14,12 @@
 # Dictionary is a collection of key-value pairs. A key is connected to a value.
 # The key is used to access the value.
 
-user_0 = {'first_name': 'mark', 
-          'last_name': 'apuya', 
-          'age': 25, 
-          'city': 'honolulu'}
+user_0 = {
+    'first_name': 'mark', 
+    'last_name': 'apuya', 
+    'age': 25, 
+    'city': 'honolulu'
+    }
 
 print(user_0['first_name'])
 print(user_0['last_name'])
