@@ -18,7 +18,11 @@
 # • Print a new set of invitation messages, one for each person in your list.
 
 # List from exercise 3-5
-invites = ['Sam', 'Jaxon', 'Troy']
+invites = [
+    'Sam', 
+    'Jaxon', 
+    'Troy',
+    ]
 print(invites)
 
 invites.insert(0, 'Alex')   

@@ -13,7 +13,10 @@
 # Square brackets [] indicate a list, elements in the list are separated by 
 # commas.
 
-names = ['Alex', 'Jaxon', 'Nick', 'Troy', 'Sam']
+names = [
+    'Alex', 'Jaxon', 'Nick', 
+    'Troy', 'Sam',
+    ]
 print(names)
 
 # You can access elements in a list by calling its position

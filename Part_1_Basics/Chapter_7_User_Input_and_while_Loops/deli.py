@@ -13,7 +13,10 @@
 # finished sandwiches. After all the sandwiches have been made, print a message 
 # listing each sandwich that was made.
 
-sandwich_orders = ['chicken', 'blt', 'grilled cheese', 'ham and cheese']
+sandwich_orders = [
+    'chicken', 'blt', 
+    'grilled cheese', 'ham and cheese',
+    ]
 finished_sandwich = []
 
 while sandwich_orders:

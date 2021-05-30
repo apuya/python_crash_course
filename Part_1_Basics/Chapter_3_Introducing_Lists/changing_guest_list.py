@@ -18,7 +18,11 @@
 #   in your list.
 
 # List from 3-4
-invites = ['Sam', 'Jaxon', 'Troy']
+invites = [
+    'Sam', 
+    'Jaxon', 
+    'Troy',
+    ]
 print(invites)
 
 # del: removes item from the list
@@ -34,5 +38,3 @@ message = "Hey {}, dinner Friday. Are you able to make it?"
 print(message.format(invites[0]))
 print(message.format(invites[1]))
 print(message.format(invites[2]))
-
-

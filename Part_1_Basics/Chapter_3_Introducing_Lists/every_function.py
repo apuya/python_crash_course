@@ -11,7 +11,10 @@
 # you’d like. Write a program that creates a list containing these items and 
 # then uses each function introduced in this chapter at least once.
 
-languages = ['c++', 'python', 'c', 'java']
+languages = [
+    'c++', 'python', 
+    'c', 'java',
+    ]
 print(f"Languages: {languages}")
 
 # append() add new element at the end of the list

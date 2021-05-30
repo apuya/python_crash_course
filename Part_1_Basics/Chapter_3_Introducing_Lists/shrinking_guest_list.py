@@ -22,7 +22,10 @@
 #   end of your program.
 
 # List from 3-6
-invites = ['Alex', 'Sam', 'Nick', 'Jaxon', 'Troy', 'Mark']
+invites = [
+    'Alex', 'Sam', 'Nick', 
+    'Jaxon', 'Troy', 'Mark',
+    ]
 
 message = "Hi everyone, it looks like the new table will not arraive on time, I can only invite two people."
 print(message)

@@ -20,8 +20,14 @@
 #   'JOHN' should not be accepted. (To do this, you’ll need to make a copy 
 #   of current_users containing the lowercase versions of all existing users.)
 
-current_users = ['mark', 'alex', 'troy', 'sam', 'jaxon']
-new_users = ['jaxon', 'troy', 'carl', 'john', 'jose']
+current_users = [
+    'mark', 'alex', 'troy', 
+    'sam', 'jaxon',
+    ]
+new_users = [
+    'jaxon', 'troy', 'carl', 
+    'john', 'jose',
+    ]
 
 for new_user in new_users:
     if new_user in current_users:

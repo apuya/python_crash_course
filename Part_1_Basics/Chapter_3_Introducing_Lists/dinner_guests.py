@@ -11,7 +11,11 @@
 # to dinner.
 
 # List from 3-6
-invites = ['Alex', 'Sam', 'Nick', 'Jaxon', 'Troy', 'Mark']
+invites = [
+    'Alex', 'Sam', 
+    'Nick', 'Jaxon', 
+    'Troy', 'Mark',
+    ]
 
 # len(): tells you the length of the list
 message = "There are {} on the invite list."

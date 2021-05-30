@@ -16,7 +16,11 @@
 #   common. You could print a sentence such as Any of these animals would make 
 #   a great pet!
 
-animals = ['duck', 'chicken', 'peacock']
+animals = [
+    'duck', 
+    'chicken', 
+    'peacock',
+    ]
 print(animals)
 
 for animal in animals:

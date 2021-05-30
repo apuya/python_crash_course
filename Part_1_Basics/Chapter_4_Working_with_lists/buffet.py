@@ -16,7 +16,10 @@
 #   foods. Add a line that rewrites the tuple, and then use a for loop to print
 #   each of the items on the revised menu.
 
-menu = ('pasta', 'steak', 'sushi', 'cake', 'shrimp')
+menu = (
+    'pasta', 'steak', 'sushi', 
+    'cake', 'shrimp',
+    )
 for food in menu:
     print(food)
 
@@ -27,6 +30,9 @@ for food in menu:
 # menu[0] = 'chicken' # prints out "TypeError: 'tuple' object does not support 
 # item assignment"
 
-menu = ('chicken', 'steak', 'crab', 'cake', 'shrimp')
+menu = (
+    'chicken', 'steak', 'crab', 
+    'cake', 'shrimp',
+    )
 for food in menu:
     print(food)

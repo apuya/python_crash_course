@@ -14,7 +14,11 @@
 #   is in your list. If the fruit is in your list, the if block should print a 
 #   statement, such as You really like bananas!
 
-favorite_fruits = ['banana', 'blueberry', 'strawberry']
+favorite_fruits = [
+    'banana', 
+    'blueberry', 
+    'strawberry',
+    ]
 print(f"Favorite fruits: {favorite_fruits}")
 
 if 'banana' in favorite_fruits:

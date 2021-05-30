@@ -11,7 +11,11 @@
 # to print each list of foods.
 
 # foods.py
-my_foods = ['pizza', 'falafel', 'carrot cake'] 
+my_foods = [
+    'pizza', 
+    'falafel', 
+    'carrot cake',
+    ] 
 friend_foods = my_foods[:]
 
 my_foods.append('cannoli')

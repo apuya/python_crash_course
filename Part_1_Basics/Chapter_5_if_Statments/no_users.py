@@ -13,7 +13,10 @@
 #   message is printed.
 
 # hello_admin.py
-usernames = ['admin', 'mark', 'jaxon', 'troy', 'alex']
+usernames = [
+    'admin', 'mark', 'jaxon', 
+    'troy', 'alex',
+    ]
 
 if usernames:
     for user in usernames:

@@ -11,7 +11,11 @@
 # to dinner. Then use your list to print a message to each person, inviting 
 # them to dinner.
 
-invites = ['Sam', 'Jaxon', 'Troy']
+invites = [
+    'Sam', 
+    'Jaxon', 
+    'Troy',
+    ]
 
 message = "{}, were having dinner on friday, be there?"
 

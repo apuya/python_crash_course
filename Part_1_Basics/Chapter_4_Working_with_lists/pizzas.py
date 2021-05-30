@@ -18,7 +18,11 @@
 #   about the kinds of pizza you like and then an additional sentence, such as
 #   I really love pizza!
 
-pizzas = ['cheese', 'greek', 'pepperoni']
+pizzas = [
+    'cheese', 
+    'greek', 
+    'pepperoni',
+    ]
 print(pizzas)
 
 for pizza in pizzas:

@@ -11,7 +11,11 @@
 # series of statements about these items, such as “I would like to own a Honda 
 # motorcycle.”
 
-cars = ['Tesla', 'Lexus', 'Chevrolet']
+cars = [
+    'Tesla', 
+    'Lexus', 
+    'Chevrolet',
+    ]
 
 print(f"The first car I owned was a {cars[2]}.")
 print(f"I currently drive a {cars[1]}.")

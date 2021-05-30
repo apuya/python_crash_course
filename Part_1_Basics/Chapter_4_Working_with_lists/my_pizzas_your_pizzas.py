@@ -16,7 +16,11 @@
 #   message My friend’s favorite pizzas are:, and then use a for loop to print 
 #   the second list. Make sure each new pizza is stored in the appropriate list.
 
-pizzas = ['cheese', 'greek', 'pepperoni']
+pizzas = [
+    'cheese', 
+    'greek', 
+    'pepperoni',
+    ]
 pizzas.append('italian')
 
 friend_pizzas = pizzas[:]

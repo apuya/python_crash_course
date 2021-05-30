@@ -15,7 +15,10 @@
 # • Otherwise, print a generic greeting, such as Hello Jaden, thank you for 
 #   logging in again.
 
-usernames = ['admin', 'mark', 'jaxon', 'troy', 'alex']
+usernames = [
+    'admin', 'mark', 'jaxon', 
+    'troy', 'alex',
+    ]
 
 for user in usernames:
     if user == 'admin':
