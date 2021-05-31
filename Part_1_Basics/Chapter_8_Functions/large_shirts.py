@@ -10,7 +10,7 @@
 # message that reads I love Python. Make a large shirt and a medium shirt with 
 # the default message, and a shirt of any size with a different message.
 
-def make_shirt(shirt_size = 'large', message_printed = 'I Love Python'):
+def make_shirt(shirt_size='large', message_printed='I Love Python'):
     """
     Display shirt specifications.
     """
@@ -19,4 +19,4 @@ def make_shirt(shirt_size = 'large', message_printed = 'I Love Python'):
 
 make_shirt()
 make_shirt('medium')
-make_shirt(message_printed = "Python", shirt_size = "small")
+make_shirt(message_printed="Python", shirt_size="small")
