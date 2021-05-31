@@ -11,7 +11,7 @@
 # call make_album() with the user’s input and print the dictionary that’s 
 # created. Be sure to include a quit value in the while loop.
 
-def make_album(artist, album, tracks = None):
+def make_album(artist, album, tracks=None):
     """
     Return a dictionary of a music album.
     """

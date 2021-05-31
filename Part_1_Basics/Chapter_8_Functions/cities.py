@@ -12,7 +12,7 @@
 # function for three different cities, at least one of which is not in the 
 # default country.
 
-def describe_city(city, country = 'unied states'):
+def describe_city(city, country='unied states'):
     """
     Describes a city.
     """

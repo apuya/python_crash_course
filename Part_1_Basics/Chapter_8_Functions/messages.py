@@ -15,6 +15,7 @@ text = [
     "What did you learn today?",
     "Python",
     ]
+    
 def show_messages(messages):
     """
     Print series of short text messages from list.

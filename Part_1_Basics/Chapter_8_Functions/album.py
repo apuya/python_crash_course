@@ -38,7 +38,8 @@ print(album)
 
 # adds optional patameter num_track for the number of tracks in album.
 
-def make_album2(artist, album, num_track = None):
+def make_album2(artist, album, 
+                num_track=None):
     """
     Return a dictionary of a music album.
     """
@@ -56,5 +57,5 @@ print(album)
 album = make_album2('Kane Brown', "Worship You")
 print(album)
 
-album = make_album2('Meduza', "Paradise", num_track = 6)
+album = make_album2('Meduza', "Paradise", num_track=6)
 print(album)
