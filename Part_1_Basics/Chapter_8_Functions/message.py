@@ -15,7 +15,9 @@
 
 def display_message():
     # docstring are a type of comment, It describes what the function does.
-    """Display simple sentence."""  
+    """
+    Display simple sentence.
+    """  
     print("We are learning functions in this chapter.")
 
 display_message()   # calls the function
