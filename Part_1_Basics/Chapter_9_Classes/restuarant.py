@@ -26,7 +26,7 @@ class Restaurant:
         self.restaurant_name = restaurant_name
         self.cuisine_type = cuisine_type
 
-    def discribe_restaurant(self):
+    def describe_restaurant(self):
         """
         Prints restaurant information.
         """
@@ -42,5 +42,5 @@ restaurant = Restaurant('Olive Garden', 'Italian')
 print(restaurant.restaurant_name)
 print(restaurant.cuisine_type)
 
-restaurant.discribe_restaurant()
+restaurant.describe_restaurant()
 restaurant.open_restaurant()
